@@ -1,0 +1,22 @@
+{
+    "name": "primeUI",
+    "type": "library",
+    "keywords" : [
+    	"primeUI", "primefaces", "javascript"
+    ],
+    "license" : "Apache License 2.0",
+    "version" : "v4.1.12",
+    "homepage" : "http://www.primefaces.org/primeui/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/candido1212/primeui.git"
+	},
+    "description": "Rich set of javascript-css only widgets http://www.primefaces.org/primeui. *this is a fork, only",
+    "authors": [
+        {
+            "name": "PrimeTek",
+            "url": "http://www.primefaces.org/primeui/"
+        }
+    ]
+
+}
